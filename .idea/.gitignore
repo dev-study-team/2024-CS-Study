@@ -9,3 +9,7 @@
 
 ### Intellij IDEA ###
 .idea
+*.iws
+*.iml
+*.ipr
+out/
