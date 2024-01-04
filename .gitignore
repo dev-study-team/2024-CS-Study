@@ -12,4 +12,5 @@
 *.iws
 *.iml
 *.ipr
+*.xml
 out/
