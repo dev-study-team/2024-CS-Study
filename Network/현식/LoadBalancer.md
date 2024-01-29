@@ -52,6 +52,7 @@ Scale-Out
 
 # 로드 밸런스 예시
 가장 많이 사용되는 로드밸런서로 L4, L7 존재함
+
 ![image](https://github.com/dev-study-team/2024-CS-Study/assets/10378777/569aa3bc-2944-4340-8c96-aaf05a664f2f)
 
 
