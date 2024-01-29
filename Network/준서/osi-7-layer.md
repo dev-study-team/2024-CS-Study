@@ -193,7 +193,7 @@ OSI 7 계층 중 최상위 계층으로, 자원 결정, 구문 확인 등의 기
 |6|표현 계층(Presentation Layer)|Data|인코딩, 디코딩, 암호화, 복호화|ASCII, MPEG, JPEG, MIDI, AFP, XDR 등|
 |5|세션 계층(Session Layer)|Data|-|SSL, TLS, NetBIOS, SAP, SDP, DLC 등|
 |4|전송 계층(Transport Layer)|TCP-Segment, UDP-Segment|특정 방화벽 및 프록시 서버|TCP, UDP, SCTP, RTP, ATP, OSPF 등|
-|3|네트워크 계층(Network Layer)Packet|라우터|IP, IPsec, ICMP, ARP, RIP, BGP, DDP, PLP 등|
+|3|네트워크 계층(Network Layer)|Packet|라우터|IP, IPsec, ICMP, ARP, RIP, BGP, DDP, PLP 등|
 |2|데이터링크 계층(DataLink Layer)|Frame|MAC  주소, 브릿지 및 스위치|Ethernet, Token Ring, MAC, HDLC, PPP, LLC 등|
 |1|물리 계층(Physical Layer)|Bit|전압, 허브, 네트워크 어댑터, 중계기 및 케이블 사양, 신호 변경|10BASE-T, 100BASE-TX, ISDN, wired, wireless등|
 
