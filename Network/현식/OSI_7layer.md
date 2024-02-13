@@ -1,4 +1,4 @@
-![image](https://github.com/dev-study-team/2024-CS-Study/assets/10378777/25aa2704-ad30-497d-b40a-7ebea2421cf7)
+
 # OSI 7계층이란
 ![image](https://github.com/dev-study-team/2024-CS-Study/assets/10378777/9c12d2bf-d320-487f-8ba2-41b221fcf1ac)
 
